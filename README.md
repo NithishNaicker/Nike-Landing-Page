@@ -38,27 +38,27 @@ This Nike landing page can be further extended to include functionalities like:
 
 The following scripts are available in this project:
 ####
-1)npm start: Starts the development server.
+1) npm start: Starts the development server.
 ####
-2)npm run build: Builds the app for production.
+2) npm run build: Builds the app for production.
 ####
-3)npm test: Runs the test suite.
+3) npm test: Runs the test suite.
 ####
-4)npm run eject: Ejects the configuration files (this is a one-way operation).
+4) npm run eject: Ejects the configuration files (this is a one-way operation).
 
 ## Project Screenshots
 
-### Landing Page
+### Navbar and Hero Section
 
 ![Screenshot (521)](https://github.com/NithishNaicker/Nike-Landing-Page/assets/86906013/0f3166aa-4cdf-4ebb-a621-c7a7932922e0)
 
-### 
+### Popular Product 
 ![Screenshot (522)](https://github.com/NithishNaicker/Nike-Landing-Page/assets/86906013/4f663876-b830-482f-a4c8-a577a67d813d)
 
-###
+### Special Offer
 ![Screenshot (523)](https://github.com/NithishNaicker/Nike-Landing-Page/assets/86906013/663168e6-a322-4ab9-964e-14c64e3365d3)
 
-###
+### Footer
 ![Screenshot (524)](https://github.com/NithishNaicker/Nike-Landing-Page/assets/86906013/d8665785-77b8-4d8e-b8ba-e6b58de59b1e)
 
 
