@@ -4,11 +4,11 @@
 
 #### Key Features:
 
-#### React-powered Frontend: React enables the creation of a modular and reusable interface, making development and maintenance efficient.
-#### Responsive Design: The landing page adapts seamlessly to various screen sizes using React's component-based approach and media queries, ensuring a smooth user experience across all devices.
-#### Clean and Modern Aesthetics: The design incorporates a clean and modern aesthetic, aligning with Nike's brand identity. High-quality visuals and captivating animations elevate the user experience.
-#### Interactive Elements: React facilitates the implementation of dynamic elements like product carousels, hover effects, and smooth scrolling, making the landing page engaging and user-friendly.
-#### Focus on User Experience: The landing page prioritizes accessibility and user experience with well-organized content, clear calls to action, and optimized loading times.
+ React-powered Frontend: React enables the creation of a modular and reusable interface, making development and maintenance efficient.
+ Responsive Design: The landing page adapts seamlessly to various screen sizes using React's component-based approach and media queries, ensuring a smooth user experience across all devices.
+ Clean and Modern Aesthetics: The design incorporates a clean and modern aesthetic, aligning with Nike's brand identity. High-quality visuals and captivating animations elevate the user experience.
+ Interactive Elements: React facilitates the implementation of dynamic elements like product carousels, hover effects, and smooth scrolling, making the landing page engaging and user-friendly.
+ Focus on User Experience: The landing page prioritizes accessibility and user experience with well-organized content, clear calls to action, and optimized loading times.
 #### Technologies Used:
 
 #### React: A JavaScript library used to build the dynamic and interactive frontend components of the landing page.
